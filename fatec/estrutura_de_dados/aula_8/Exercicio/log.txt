@@ -1,0 +1,10 @@
+CODIGO | NOME | EMAIL | SALARIO | TELEFONE
+000001 | Carol | carolkaji@gmail.com | 333 | 11 11973598664
+000002 | Carol | carolkaji@gmail.com | 333 | 11 11973598664
+000003 | Carol | carolkaji@gmail.com | 333 | 11 11973598664
+000004 | Carol | carolkaji@gmail.com | 333 | 11 11973598664
+000005 | Carol | carolkaji@gmail.com | 333 | 11 11973598664
+000006 | Carol | carolkaji@gmail.com | 333 | 11 11973598664
+000007 | Carol | carolkaji@gmail.com | 333 | 11 11973598664
+000008 | Carol | carolkaji@gmail.com | 333 | 11 11973598664
+000009 | Carol | carolkaji@gmail.com | 333 | 11 11973598664

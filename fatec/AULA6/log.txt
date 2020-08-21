@@ -1,0 +1,14 @@
+CODIGO | NOME | EMAIL | SALARIO | TELEFONE
+000001 | Luciana Cardoso Amâncio De Sá | luciana.sa@fatec.sp.gov.br | 2000 | 11 11942213409
+000002 | Luciana Cardoso Amâncio De Sá | luciana.sa@fatec.sp.gov.br | 2000 | 11 11942213409
+000003 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000004 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000005 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000006 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000007 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000008 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000009 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000010 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000011 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000012 | SANDRO A DE SA | luciana.sa@fatec.sp.gov.br | 3000 | 11 942797095
+000013 | SANDRO A DE SA | sandrosa2@msn.com | 3000 | 11 942797095

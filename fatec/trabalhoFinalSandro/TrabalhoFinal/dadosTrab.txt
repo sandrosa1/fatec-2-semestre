@@ -1,0 +1,4 @@
+CODIGO | NOME | FUNÇÃO | SEXO | SALÁRIO | INSS | DATA_CADASTRO
+000120 | Sandro Amancio de sá | Funcionario | Masculino | 2000 | 220 | 09/07/20 19:13:41
+000220 | Luciana Cardoso Amâncio De Sá | Funcionario | Feminino | 1000 | 110 | 09/07/20 19:15:03
+000320 | João pedro Cardoso | Gerencia | Masculino | 3000 | 330 | 09/07/20 19:15:13

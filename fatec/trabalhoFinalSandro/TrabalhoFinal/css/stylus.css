@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+h4{
+    color: red;
+}
+h2{
+    color: green;
+}
+a {
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.cabecalho
+{
+    border: solid 2px black;
+
+}

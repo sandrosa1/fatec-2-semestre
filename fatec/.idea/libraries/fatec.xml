@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="fatec">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/trabalhoFinal.zip!/" />
+      <root url="jar://$PROJECT_DIR$/AULA6.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

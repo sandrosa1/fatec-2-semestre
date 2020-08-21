@@ -1,0 +1,5 @@
+000001 | Gustavo | 19 | masculino | Reservista OK
+000002 | Carol | 25 | feminino | N/A
+000003 | Carol | 11 | feminino | N/A
+000004 | gustavo | 11 | masculino | Alistamento
+000005 | gustavo | 18 | masculino | Reservista OK
